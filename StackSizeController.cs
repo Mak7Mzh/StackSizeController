@@ -5,7 +5,7 @@ using Oxide.Core;
 
 namespace Oxide.Plugins
 {
-    [Info("Stack Size Controller", "Canopy Sheep", "2.0.3", ResourceId = 2320)]
+    [Info("Stack Size Controller", "Canopy Sheep", "2.0.4", ResourceId = 2320)]
     [Description("Allows you to set the max stack size of every item.")]
     public class StackSizeController : RustPlugin
     {
